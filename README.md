@@ -1,8 +1,8 @@
 # hostsscan
-host碰撞小工具，用于寻找未设置dns的隐藏域名,自动以域名和时间戳保存扫描结果。
--ip 参数指定目标服务器ip地址
--domain 参数想要扫描的主域名
--dict 指定子域名字典文件，默认使用subdomain.txt
+host碰撞小工具，用于寻找未设置dns的隐藏域名,自动以域名和时间戳保存扫描结果。\n
+-ip 参数指定目标服务器ip地址 \n
+-domain 参数想要扫描的主域名 \n
+-dict 指定子域名字典文件，默认使用subdomain.txt \n
 
 
 
